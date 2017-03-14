@@ -9,4 +9,6 @@
 
 ### References
 1. [Windows cmd vs. Unix bash commands cheat sheet](https://github.com/libphy/os_notes/blob/master/basics/commandline-cheatsheet.md)
-2. (Temporary) [Conda package installations example](https://github.com/libphy/os_notes/blob/master/DL_setup/windows10-no-gpu.md)
+2. (Temporary) [Conda package installations example](https://github.com/libphy/os_notes/blob/master/DL_setup/windows10-no-gpu.md)    
+You won't need STEP 4.
+3. [Basic git](https://github.com/libphy/os_notes/blob/master/basics/git-intro.md)
