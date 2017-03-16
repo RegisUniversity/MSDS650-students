@@ -1,7 +1,9 @@
 
 # Installing the R kernel (IRkernel) for Jupyter notebooks
 
-If you're installing in Windows or Mac, it should be pretty easy.  First, make sure R is installed, then enter the R shell by typing
+First things first:  make sure you actually have Jupyter notebook installed.  This should be as easy as installing the [Anaconda](https://www.continuum.io/downloads) Python distribution.
+
+If you're installing in Windows or Mac, installing the R kernel for Jupyter should be pretty easy.  First, make sure R is installed, then enter the R shell by typing
 
 `R`
 
