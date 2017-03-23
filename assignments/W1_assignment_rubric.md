@@ -1,6 +1,6 @@
 # EDA - stats and graphs
 
-This assignment will help you learn some of the techniques commonly used in exploratory data analysis.  The assignment can be done within a jupyter notebook, or submitted as a text document writeup (e.g. in Word, Google docs, etc, with summary stats and graphics) along with code you used to create the plots and statistics.  If using a Jupyter notebook, you can change some of the cells from 'code' to 'markdown' to add discussion.  Here's a cheatsheet for [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), it's pretty easy to learn.
+This assignment will help you learn some of the techniques commonly used in exploratory data analysis.  You can do the assignment in Python or R.  The assignment can be done within a jupyter notebook, or submitted as a text document writeup (e.g. in Word, Google docs, etc, with summary stats and graphics) along with code you used to create the plots and statistics.  If using a Jupyter notebook, you can change some of the cells from 'code' to 'markdown' to add discussion.  Here's a cheatsheet for [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), it's pretty easy to learn.
 
 You can also post the assignment on Github, and send me the link.  Github will naturally display jupyter notebooks and markdown within web browsers.
 
