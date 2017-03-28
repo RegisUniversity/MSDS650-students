@@ -21,7 +21,7 @@ git pull upstream master
 
 3. Download the data
 https://www.kaggle.com/wordsforthewise/lending-club
-If the internet is too slow, you can use just the 2016 data from here (although it has some problems currently): https://github.com/nateGeorge/preprocess_lending_club_data    
+If the internet is too slow, you can use just the 2016 data from here (although it currently has some problems): https://github.com/nateGeorge/preprocess_lending_club_data    
 4. In your cmd or bash, cd into the local repository folder and type
 ```bash
 jupyter notebook
